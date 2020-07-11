@@ -91,3 +91,27 @@
     right: 180px;
     left: 770px;
 }
+#first-content{
+    position: relative;
+    bottom: -10;
+}
+.top-2 {
+    position: absolute;
+    top: 20px;
+	left: 22px;
+}
+.bottom-2 {
+    position: absolute;
+	bottom: 0;
+    left: 440px;
+}
+.rigth-2 {
+    position: absolute;
+	left: 700px;
+}
+.left-2 {
+    position: absolute;
+	bottom: 0;
+    right: 180px;
+    left: 770px;
+}
